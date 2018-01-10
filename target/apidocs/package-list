@@ -1,0 +1,7 @@
+com.maventutorials.config
+com.maventutorials.config.core
+com.maventutorials.controller
+com.maventutorials.dao
+com.maventutorials.model
+com.maventutorials.service
+com.maventutorials.util

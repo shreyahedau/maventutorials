@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maventuts:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maventuts-1.0-SNAPSHOT.war" />
+  </artifact>
+</component>

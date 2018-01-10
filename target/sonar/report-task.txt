@@ -1,0 +1,6 @@
+projectKey=org.shreya:maventuts
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/org.shreya:maventuts
+ceTaskId=AWDU-G0WWQYzzVd1-Lz4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWDU-G0WWQYzzVd1-Lz4

@@ -1,0 +1,46 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍíÇ–ûÿÿÿÿ8¦­æÛ‹,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿĞ¤8·Õ©ÎŒ,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–˜üşÿÿÿÿ8×šêß‹,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(”ú¸8¦­æÛ‹,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–˜üşÿÿÿÿ8¦­æÛ‹,
+`squid:S1854"?Remove this useless assignment to local variable "mapConsumer".(æ•×ºıÿÿÿÿ8·Õ©ÎŒ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÆ28×šêß‹,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÆğ½8·Õ©ÎŒ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÄÃÁüÿÿÿÿ8×šêß‹,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Üî›Èøÿÿÿÿ8¦­æÛ‹,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é–ÁÛúÿÿÿÿ8Ïõ»á‹,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(·Â¾Ê8·Õ©ÎŒ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ•×ºıÿÿÿÿ8·Õ©ÎŒ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(€¬ê“8·Õ©ÎŒ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï¤ã¬8×šêß‹,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ¯³•şÿÿÿÿ8¦­æÛ‹,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï¿œ¯8¦­æÛ‹,
+Qsquid:S1481"0Remove this unused "mapConsumer" local variable.(æ•×ºıÿÿÿÿ8·Õ©ÎŒ,
+Hsquid:S1602",Remove useless curly braces around statement(ÎÆğ½8·Õ©ÎŒ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©‰‚«8Ô’ÀÑŒ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ô’ÀÑŒ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âŸşÚ8·Õ©ÎŒ,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â¤ó8¦­æÛ‹,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÀÏûÿÿÿÿ8·Õ©ÎŒ,
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¦­æÛ‹,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾ÖÌ8·Õ©ÎŒ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(È°ŸË8×šêß‹,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(éØø°8·Õ©ÎŒ,
+^squid:UnusedPrivateMethod"/Remove this unused private "modifyName" method.(Ìµ‡ñøÿÿÿÿ8·Õ©ÎŒ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×§ŠÕüÿÿÿÿ8¦­æÛ‹,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ô’ÀÑŒ,
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(é–ÁÛúÿÿÿÿ8Ïõ»á‹,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–˜üşÿÿÿÿ8¦­æÛ‹,
